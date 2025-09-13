@@ -3,6 +3,10 @@
 Welcome! This repository contains Python code, data, and resources for analyzing user financial habits and predicting churn to improve customer retention using machine learning.
 
 ---
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQHUTUMzp1RC9g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1723872184225?e=2147483647&v=beta&t=yVf5d9wp76v6qE0Ez0NQttVigtlYgMRyDLPoWecejLI" width="800" height="450" alt="LinkedIn Article Cover">
+</p>
+
 
 ## 🌟 Features
 
